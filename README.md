@@ -1,2 +1,2 @@
 # StockStats
-Real-time stock data streaming solution using Kafka Streams.
+Check out documentation.pdf
